@@ -72,9 +72,8 @@ ABP-Blockchain/
  ├── contract.js             # Smart contract logic (BiologicalPassportContract)
  ├── test-biopassport.js     # Unit tests using Fabric mock stubs
  ├── package.json            # Dependencies and scripts
- ├── README.md               # This documentation
- ├── CHANGELOG.md            # Version history
- └── doc_TERMINOLOGY.md      # Spanish ↔ English glossary
+ └── README.md               # This documentation
+ 
 ```
 
 ---
