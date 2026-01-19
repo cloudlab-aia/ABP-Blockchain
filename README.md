@@ -1,4 +1,11 @@
 # 🧬 Enhancing the Athlete Biological Passport with Blockchain: A Secure and Transparent Anti-Doping Approach
+<p align="center">Enhancing the athlete biological passport with blockchain: A secure and transparent anti-doping approach</p>
+
+<p align="center">
+  <a href="https://doi.org/10.1177/17479541251394511">
+    <img src="https://img.shields.io/badge/International Journal of Sports Science & Coaching-2025-blue" alt="Feature Requests">
+  </a>
+</p>
 
 This repository contains the official implementation associated with the paper:  
 **“Enhancing the Athlete Biological Passport with Blockchain: A Secure and Transparent Anti-Doping Approach”**  
@@ -12,11 +19,7 @@ published in *International Journal of Sports Science & Coaching*, 2025.
 ---
 
 ## 📘 Abstract
-The **Athlete Biological Passport (ABP)** is a longitudinal record of an athlete’s biological variables that allows indirect detection of doping practices.  
-Traditional ABP systems face issues of data fragmentation, limited interoperability, and lack of transparency between stakeholders.
-
-This project proposes a **blockchain-based ABP framework** implemented on **Hyperledger Fabric**, providing a **secure, immutable, and transparent platform** for managing biological and anti-doping information.  
-By leveraging **smart contracts**, the system ensures integrity, traceability, and controlled access to sensitive data, fostering trust among anti-doping agencies, laboratories, and sports federations.
+The **Athlete Biological Passport (ABP)** is a longitudinal record of an athlete’s biological variables that allows indirect detection of doping practices. Traditional ABP systems face issues of data fragmentation, limited interoperability, and lack of transparency between stakeholders. This project proposes a **blockchain-based ABP framework** implemented on **Hyperledger Fabric**, providing a **secure, immutable, and transparent platform** for managing biological and anti-doping information.  By leveraging **smart contracts**, the system ensures integrity, traceability, and controlled access to sensitive data, fostering trust among anti-doping agencies, laboratories, and sports federations.
 
 ---
 
@@ -144,6 +147,16 @@ If you use or reference this repository, please cite:
 > *International Journal of Sports Science & Coaching*, 2025.  
 > GitHub: [https://github.com/cloudlab-aia/ABP-Blockchain](https://github.com/cloudlab-aia/ABP-Blockchain)
 
+```bibtex
+@article{sirvent_2025,
+	title = {Enhancing the Athlete Biological Passport with Blockchain: A Secure and Transparent Anti-Doping Approach},
+	issn = {1747-9541},
+	doi = {10.1177/17479541251394511},
+	journal = {International Journal of Sports Science & Coaching},
+	author = {Sirvent-Llamas, Alejandro and Albentosa-Mora, José Luis and Cano-Esquibel, Gaspar and Mora, Higinio},
+	year = {2025},
+}
+```
 ---
 
 ### 📬 Contact
@@ -151,3 +164,6 @@ If you use or reference this repository, please cite:
 **Alejandro Sirvent-Llamas** — University of Alicante, Spain  
 📧 asirvent@ua.es  
 🌐 [https://www.ua.es](https://www.ua.es)
+
+## License Information
+This project is licensed under the <a href="LICENSE.txt">GPL-3 license</a>.
