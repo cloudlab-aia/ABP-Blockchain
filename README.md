@@ -166,4 +166,4 @@ If you use or reference this repository, please cite:
 🌐 [https://www.ua.es](https://www.ua.es)
 
 ## License Information
-This project is licensed under the <a href="LICENSE.txt">GPL-3 license</a>.
+This project is licensed under the <a href="LICENSE">GPL-3 license</a>.
